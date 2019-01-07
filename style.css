@@ -3,6 +3,7 @@ body{
 }
 h3{
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+text-align: center;
 }
 h2{
 font-family: arial;    
@@ -10,10 +11,26 @@ font-family: arial;
 h1{
 font-family: arial;
 color: crimson;    
+text-align:center;
 }
 p{
-font-family: Georgia;  
+font-family: Georgia; 
+text-align: center; 
 }
 li{
 font-family: Georgia;
 }
+h1{
+border-bottom: 4px solid red;      
+}
+.title{
+border: 2px solid black;
+font-style: italic; 
+}
+.images{
+height: 500px;
+width: 500px;    
+}
+
+
+
