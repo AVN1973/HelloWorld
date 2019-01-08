@@ -12,10 +12,13 @@ h1{
 font-family: arial;
 color: crimson;    
 text-align:center;
+position: sticky;
 }
 p{
 font-family: Georgia; 
 text-align: center; 
+margin-left: 25px;
+margin-right: 25px;
 }
 li{
 font-family: Georgia;
@@ -31,9 +34,15 @@ font-style: italic;
 height: 500px;
 width: 500px;    
 }
-#header{
-position: relative;    
+#DT{
+    margin-left: 355px;   
 }
+#myheader{
+position: sticky;    
+}
+
+
+
 
 
 
