@@ -6,13 +6,13 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 text-align: center;
 }
 h2{
-font-family: arial;    
+font-family: arial;
 }
 h1{
 font-family: arial;
 color: crimson;    
 text-align:center;
-position: sticky;
+border: 2px solid red
 }
 p{
 font-family: Georgia; 
@@ -21,10 +21,7 @@ margin-left: 25px;
 margin-right: 25px;
 }
 li{
-font-family: Georgia;
-}
-h1{
-border: 2px solid red;      
+font-family: Georgia;      
 }
 .title{
 border: 3px solid black;
@@ -35,14 +32,16 @@ height: 500px;
 width: 500px;    
 }
 #DT{
-    margin-left: 355px;   
+    margin-left: 23%;   
 }
-#myheader{
-position: sticky;    
+div{
+background-color: white;    
 }
-
-
-
-
-
-
+img{
+margin-left: auto;
+margin-right: auto;
+display: block;    
+}
+#center{
+text-align: center;    
+}
