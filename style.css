@@ -26,6 +26,7 @@ font-family: Georgia;
 .title{
 border: 3px solid black;
 font-style: italic; 
+border-radius: 15px;
 }
 .images{
 height: 500px;
