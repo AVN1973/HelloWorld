@@ -12,7 +12,8 @@ h1{
 font-family: arial;
 color: crimson;    
 text-align:center;
-border: 2px solid red
+border: 2px solid red;
+border-radius: 15px; 
 }
 p{
 font-family: Georgia; 
@@ -21,12 +22,14 @@ margin-left: 25px;
 margin-right: 25px;
 }
 li{
-font-family: Georgia;      
+font-family: Georgia; 
 }
 .title{
 border: 3px solid black;
 font-style: italic; 
 border-radius: 15px;
+margin-left: 50px;
+margin-right: 50px;
 }
 .images{
 height: 500px;
@@ -36,7 +39,8 @@ width: 500px;
     margin-left: 23%;   
 }
 div{
-background-color: white;    
+background-color: white;  
+ border-radius: 15px; 
 }
 img{
 margin-left: auto;
@@ -57,4 +61,5 @@ margin-left: auto;
 margin-right: auto;
 display: block;
 }
-
+#review{ 
+}
